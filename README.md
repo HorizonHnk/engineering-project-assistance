@@ -44,27 +44,6 @@ Expert guidance and support for final-year academic projects, professionals, and
 
 ---
 
-## Featured Projects
-### Smart Home Automation (IoT/ESP32/AI/Web)
-- AI-powered control system for household devices.
-
-### Environmental Monitoring Station (ESP32/Sensors/Web)
-- Real-time environmental data tracking via web interface.
-
-### STM32 Learning Platform (Embedded/Education)
-- Interactive tutorials for STM32 microcontrollers.
-
-### PV Solar System (Renewable Energy/Data Visualization)
-- Real-time solar power metrics visualization.
-
-### Signal Processing Calculator (Cross-platform/Mathematics)
-- Scientific computing and signal analysis tool.
-
-### Network Lab (Networking/Protocols)
-- Virtual network topologies with OSPF/BGP/MPLS.
-
----
-
 ## FAQ
 **Q: Is this academic dishonesty?**  
 A: No. We provide guidance and mentoring to help you learn and implement solutions independently.
