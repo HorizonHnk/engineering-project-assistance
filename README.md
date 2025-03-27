@@ -14,7 +14,7 @@ A comprehensive platform offering technical assistance for:
 
 **Core Technologies**:
 ```python
-["JavaScript", "React", "Node.js", "Python", "C/C++", "Arduino", "STM32", "ESP32", "IoT", "AI/ML"]
+["JavaScript", "React", "Node.js", "Python", "C/C++", "Arduino", "STM32", "ESP32", "RASPBERRY", "IoT", "AI/ML"]
 ```
 
 ## 🚀 Features
